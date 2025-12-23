@@ -1,4 +1,4 @@
-MIPS 5-Stage Pipelined in VHDL
+#MIPS 5-Stage Pipelined in VHDL
 
 Technical Description
 VHDL implementation of a MIPS Processor featuring a 5-Stage Pipeline architecture (Instruction Fetch, Decode, Execute, Memory, Write Back).
