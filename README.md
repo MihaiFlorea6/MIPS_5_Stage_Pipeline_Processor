@@ -9,11 +9,10 @@ The architecture incorporates dedicated control units (`Main Control`, `ALU Cont
 * **The primary objective was to optimize the instruction throughput by leveraging the pipelining principle.**   
 
 # Skills
-This project showcases an in-depth understanding of:
-**-> Processor segmentation and the role of pipeline registers.**  
-**-> Data and control flow (Key Control Signals: RegDst, ALUSrc, MemToReg, RegWrite, etc.).**   
-**-> Hardware description using VHDL (implementation and simulation).**  
-**-> The provided RTL schematic offers a detailed graphical representation of the logical interconnections.**  
+This project showcases an in-depth understanding of:  
+**-> `Processor segmentation` and the role of pipeline registers.**  
+**-> `Data and control flow` (Key Control Signals: RegDst, ALUSrc, MemToReg, RegWrite, etc.).**   
+**-> Hardware description using `VHDL (implementation and simulation)`.**  
 
 # Key Technologies
-`VHDL`, `MIPS32 Architecture`, `5-Stage Pipelining`, `RTL Design`, `FPGA/Hardware Synthesis.`
+`VHDL`, `MIPS32 Architecture`, `5-Stage Pipelining`, `RTL Design`, `FPGA/Hardware Synthesis`.
